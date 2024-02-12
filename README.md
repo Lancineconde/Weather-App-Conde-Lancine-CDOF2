@@ -18,7 +18,7 @@ Start the development server with npm start or yarn start.
 Usage
 After installation, you can access the Weather App by opening it in your web browser. The app will request permission to access your location to provide accurate weather data. Once permission is granted, you'll see the current weather conditions for your location displayed on the screen.
 
-Technologies Used
+Technologies Used :
 HTML5
 CSS3
 JavaScript
